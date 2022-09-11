@@ -1,8 +1,3 @@
-/**
- *
- * @author Hilsa Parinding
- */
-
 package SteppingStones;
 
 import java.util.Scanner;
@@ -11,6 +6,7 @@ public class SteppingStone2_IngredientCalculator {
 
     /**
      * @param args the command line arguments
+     * @author Hilsa Parinding
      */
     public static void main(String[] args) {
        
