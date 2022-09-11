@@ -53,7 +53,7 @@ public class SteppingStone2_IngredientCalculator {
         */
 
        totalCalories = numberCups * numberCaloriesPerCup; 
-         //uses the * symbol to multiply the two varibles
+         //using the * symbol to multiply the two varibles
        
        System.out.println(nameOfIngredient + " uses " + numberCups 
        + " cups and has " + totalCalories + " calories.");
